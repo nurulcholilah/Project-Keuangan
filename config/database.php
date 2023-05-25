@@ -91,6 +91,17 @@ return [
             'prefix_indexes' => true,
         ],
 
+        // 'oracle' => [
+        //     'driver' => 'oracle',
+        //     'host' => env('DB_HOST', 'localhost'),
+        //     'port' => env('DB_PORT', '1521'),
+        //     'database' => env('DB_DATABASE', 'keuangan'),
+        //     'username' => env('DB_USERNAME', 'sys'),
+        //     'password' => env('DB_PASSWORD', 'sys'),
+        //     'charset' => 'utf8',
+        //     'prefix' => '',
+        // ],
+
     ],
 
     /*
